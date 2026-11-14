@@ -47,6 +47,12 @@ anime_mode: true
 
 <div align="center">
 
+<img src="./anime.gif" width="100%" alt="dark anime"/>
+
+</div>
+
+<div align="center">
+
 <img src="./t-arsenal.svg" width="100%" alt="arsenal"/>
 
 <table>
@@ -78,9 +84,80 @@ anime_mode: true
 
 <img src="./matrix.svg" width="100%" alt="matrix"/>
 
-<img src="./t-hacker.svg" width="100%" alt="modo hacker"/>
+<img src="./t-projetos.svg" width="100%" alt="projetos"/>
 
-<img src="https://img.shields.io/badge/Kali_Linux-1a0000?style=for-the-badge&logo=kalilinux&logoColor=ffffff" alt="Kali Linux"/> <img src="https://img.shields.io/badge/Nmap-1a0000?style=for-the-badge&logo=hackthebox&logoColor=ffffff" alt="Nmap"/> <img src="https://img.shields.io/badge/Wireshark-1a0000?style=for-the-badge&logo=wireshark&logoColor=ffffff" alt="Wireshark"/> <img src="https://img.shields.io/badge/Burp_Suite-1a0000?style=for-the-badge&logo=burpsuite&logoColor=ffffff" alt="Burp Suite"/> <img src="https://img.shields.io/badge/Docker-1a0000?style=for-the-badge&logo=docker&logoColor=ffffff" alt="Docker"/> <img src="https://img.shields.io/badge/GitHub_Actions-1a0000?style=for-the-badge&logo=githubactions&logoColor=ffffff" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/Windows_Server-1a0000?style=for-the-badge&logo=windows&logoColor=ffffff" alt="Windows Server"/> <img src="https://img.shields.io/badge/VirtualBox-1a0000?style=for-the-badge&logo=virtualbox&logoColor=ffffff" alt="VirtualBox"/> <img src="https://img.shields.io/badge/Proxmox-1a0000?style=for-the-badge&logo=proxmox&logoColor=ffffff" alt="Proxmox"/>
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 Bot de sincronização**<br/>
+<sub><code>Python · Sheets API</code></sub><br/>
+Coleta dados de sistemas web e alimenta planilhas sozinho, 24/7<br/>
+<sub>🔒 privado</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**📊 Dashboards de produtividade**<br/>
+<sub><code>JavaScript · HTML</code></sub><br/>
+Painéis visuais com indicadores atualizando em tempo real<br/>
+<sub>🔒 privado</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🗄️ Sistema de inventário**<br/>
+<sub><code>JavaScript</code></sub><br/>
+Controle de equipamentos: entrada, saída e status<br/>
+<sub>🔒 privado</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**🎫 Central de chamados de TI**<br/>
+<sub><code>TypeScript</code></sub><br/>
+Abertura e acompanhamento de chamados de ativos<br/>
+<sub>🔒 privado</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🧩 Userscripts & extensões**<br/>
+<sub><code>JS · Tampermonkey</code></sub><br/>
+Automatizam tarefas repetitivas direto no navegador<br/>
+<sub>🔒 privado</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**☁️ Backend em nuvem**<br/>
+<sub><code>Render · APIs</code></sub><br/>
+Serviço no ar que alimenta os dashboards<br/>
+<sub>🔒 privado</sub>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="./t-sistema.svg" width="100%" alt="sistema"/>
+
+<img src="./status.svg" width="100%" alt="status"/>
+
+<img src="./t-rede.svg" width="100%" alt="rede"/>
+
+<img src="./network.svg" width="100%" alt="rede"/>
+
+<img src="./t-jornada.svg" width="100%" alt="jornada"/>
+
+<img src="./journey.svg" width="100%" alt="jornada"/>
 
 <br/><br/>
 
