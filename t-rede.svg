@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="56" viewBox="0 0 800 56">
+<style>.sw{animation:sw 4s ease-in-out infinite}@keyframes sw{0%{transform:translateX(-220px)}60%,100%{transform:translateX(820px)}}
+.c{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}
+text{font-family:Courier New,monospace}</style>
+<defs><linearGradient id="s" x1="0" x2="1"><stop offset="0" stop-color="#e10600" stop-opacity="0"/><stop offset=".5" stop-color="#e10600" stop-opacity=".35"/><stop offset="1" stop-color="#e10600" stop-opacity="0"/></linearGradient>
+<clipPath id="r"><rect width="800" height="56" rx="8"/></clipPath></defs>
+<g clip-path="url(#r)"><rect width="800" height="56" fill="#0a0a0a"/><rect width="8" height="56" fill="#e10600"/>
+<rect class="sw" width="200" height="56" fill="url(#s)"/></g>
+<rect x="1" y="1" width="798" height="54" rx="8" fill="none" stroke="#3b0000"/>
+<text x="28" y="36" font-size="24" font-weight="700" fill="#fff">// REDE<tspan class="c" fill="#e10600">_</tspan></text>
+<text x="772" y="25" font-size="20" text-anchor="end" fill="#e10600" font-family="sans-serif">網</text>
+<text x="772" y="44" font-size="11" text-anchor="end" fill="#737373">infra mapeada</text>
+</svg>
