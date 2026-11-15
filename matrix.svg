@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="120" viewBox="0 0 800 120">
 <style>text{font-family:monospace;font-size:15px}.m{animation:rain linear infinite}@keyframes rain{to{transform:translateY(330px)}}</style>
-<defs><linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e10600" stop-opacity="0"/><stop offset=".85" stop-color="#e10600"/><stop offset="1" stop-color="#ffb3b3"/></linearGradient></defs>
+<defs><linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e5e5e5" stop-opacity="0"/><stop offset=".85" stop-color="#e5e5e5"/><stop offset="1" stop-color="#ffffff"/></linearGradient></defs>
 <rect width="800" height="120" rx="10" fill="#050505"/>
 <text class="m" style="animation-duration:3.5s;animation-delay:-7.4s" fill="url(#fade)" y="-128"><tspan x="8" dy="16">シ</tspan><tspan x="8" dy="16">ル</tspan><tspan x="8" dy="16">ホ</tspan><tspan x="8" dy="16">テ</tspan><tspan x="8" dy="16">レ</tspan><tspan x="8" dy="16">レ</tspan><tspan x="8" dy="16">ホ</tspan><tspan x="8" dy="16">ヨ</tspan></text>
 <text class="m" style="animation-duration:6.4s;animation-delay:-6.5s" fill="url(#fade)" y="-128"><tspan x="33" dy="16">ナ</tspan><tspan x="33" dy="16">ラ</tspan><tspan x="33" dy="16">ラ</tspan><tspan x="33" dy="16">ウ</tspan><tspan x="33" dy="16">ヨ</tspan><tspan x="33" dy="16">ハ</tspan><tspan x="33" dy="16">5</tspan><tspan x="33" dy="16">ン</tspan></text>
